@@ -6,7 +6,6 @@
 
 
 > ✍ I'm a software developer at [ @ FPT](https://utop.io/).
-
 <br />
 
 
